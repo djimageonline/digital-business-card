@@ -1,6 +1,6 @@
 export default function Info() {
   return (
-    <div>
+    <div className="info-container">
       <img src="src/assets/Headshot.png" className="headshot"></img>
       <h1>Johnny Proano</h1>
       <p>Software Engineer</p>
