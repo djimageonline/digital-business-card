@@ -1,10 +1,9 @@
 export default function Interests() {
   return (
     <div className="interests-container">
-      <h2>About</h2>
-      <p>
-        I am a software developer interested in making a differennce in the world through code. Tehcnology is always
-        changing, so, I enjoy learning nad applyhing the new skills into real-world projects!
+      <h4>Interests</h4>
+      <p className="paragraph">
+        Besides my love for code, Soccer and Basketball are my sports. Movies and popcorn. Board Games.
       </p>
     </div>
   );
